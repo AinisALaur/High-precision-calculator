@@ -3,7 +3,7 @@
 ## Table of Contents
 - [About](#about)
 - [Installation & setup](#installation--setup)
-- [Gameplay](#gameplay)
+- [Usage](#usage)
 - [License](#license)
 
 ## About
