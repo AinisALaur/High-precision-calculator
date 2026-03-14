@@ -8,7 +8,7 @@
 
 ## About
 This is a program that allows to perform arithmetic calculations beyond the capabilities of standard C++ libraries. The current implementation works with 100 digit after decimal point precision.
-The program can calculate the square root of a number, the natural logarithm, factorial, raise it to a power, find the next prime, calculate the sin value, average, and get the PI value.
+The program can calculate the square root, the natural logarithm, factorial, raise to a power, find the next prime, calculate the sin value, average, and get the PI value.
 
 ## Installation & setup
 Download all files and run the following commands:
@@ -26,7 +26,7 @@ Finally run the *program.exe*
 Originally the test.cpp is used for fast and proper testing of the program, where the demo.cpp is used for simple tests.
 
 ## Usage
-You may view the examples to create and define the LargeNum object in the demo.cpp, if you want to calcualte specific functions you will need to review the test.cpp.
+You may view the examples to create and define the LargeNum object in the demo.cpp, if you want to calculate specific functions you will need to review the test.cpp.
 For example if you want to calculate the Log value of 123456789012345678901234567890 you will need to run the ./program.exe and input such sequence:
 
 4
