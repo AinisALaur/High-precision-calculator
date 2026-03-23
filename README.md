@@ -11,7 +11,11 @@ This is a program that allows to perform arithmetic calculations beyond the capa
 The program can calculate the square root, the natural logarithm, factorial, raise to a power, find the next prime, calculate the sin value, average, and get the PI value.
 
 ## Installation & setup
-Download all files and run the following commands:
+```bash
+# clone the repo
+git clone https://github.com/AinisALaur/High-precision-calculator.git
+
+cd High-precision-calculator
 
 g++ -c class.cpp -o class.o
 
@@ -20,6 +24,9 @@ g++ -c extra.cpp -o extra.o
 g++ -c test.cpp -o test.o
 
 g++ class.o extra.o test.o -o program.exe
+
+./program.exe
+```
 
 Finally run the *program.exe*
 
